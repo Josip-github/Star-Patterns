@@ -5,7 +5,7 @@ public class DiamondPattern01 {
 	public static void main(String[] args) {
 
 		/*
-		 *	        1
+		 *          1
 		 * 		   222
 		 * 		  33333
 		 * 		 4444444
@@ -13,7 +13,7 @@ public class DiamondPattern01 {
 		 * 		 6666666
 		 * 		  77777
 		 * 		   888
-		 *	        9
+		 *          9
 		 */
 		
 		int n = 5, p = 1;
