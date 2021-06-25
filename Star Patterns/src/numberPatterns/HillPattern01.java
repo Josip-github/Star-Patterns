@@ -5,11 +5,11 @@ public class HillPattern01 {
 	public static void main(String[] args) {
 
 		/*
-		 *			1
-		 * 	 	   123
-		 * 	  	  12345
-		 * 	   	 1234567
-		 * 	    123456789
+		 *     1
+		 *    123
+		 *   12345
+		 *  1234567
+		 * 123456789               
 		 */
 		
 		int rows = 5;
